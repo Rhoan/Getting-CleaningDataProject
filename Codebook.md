@@ -44,3 +44,7 @@ tBodyAcc-mean()-Z
 and so forth (79)
 
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
+
+use summary() function to see the summary of the created tidy dataset.
+
+Thank you!
